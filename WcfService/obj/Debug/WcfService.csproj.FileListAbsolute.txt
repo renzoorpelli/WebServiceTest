@@ -1,0 +1,10 @@
+C:\Users\Renzo\Documents\develop\asp.net\WebServiceTest\WebService\WcfService\bin\WcfService.dll.config
+C:\Users\Renzo\Documents\develop\asp.net\WebServiceTest\WebService\WcfService\bin\WcfService.dll
+C:\Users\Renzo\Documents\develop\asp.net\WebServiceTest\WebService\WcfService\bin\WcfService.pdb
+C:\Users\Renzo\Documents\develop\asp.net\WebServiceTest\WebService\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+C:\Users\Renzo\Documents\develop\asp.net\WebServiceTest\WebService\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Documents\develop\asp.net\WebServiceTest\WebService\WcfService\obj\Debug\WcfService.dll
+C:\Users\Renzo\Documents\develop\asp.net\WebServiceTest\WebService\WcfService\obj\Debug\WcfService.pdb
+C:\Users\Renzo\Documents\develop\asp.net\WebServiceTest\WebService\WcfService\bin\Newtonsoft.Json.dll
+C:\Users\Renzo\Documents\develop\asp.net\WebServiceTest\WebService\WcfService\bin\Newtonsoft.Json.xml
+C:\Users\Renzo\Documents\develop\asp.net\WebServiceTest\WebService\WcfService\obj\Debug\WcfService.csproj.CopyComplete
